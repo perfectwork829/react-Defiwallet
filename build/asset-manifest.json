@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff648850.chunk.css",
+    "main.js": "/static/js/main.25aa85e9.chunk.js",
+    "main.js.map": "/static/js/main.25aa85e9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.82d4dd44.js",
+    "runtime-main.js.map": "/static/js/runtime-main.82d4dd44.js.map",
+    "static/js/2.6b2251d4.chunk.js": "/static/js/2.6b2251d4.chunk.js",
+    "static/js/2.6b2251d4.chunk.js.map": "/static/js/2.6b2251d4.chunk.js.map",
+    "static/js/3.b8ebd892.chunk.js": "/static/js/3.b8ebd892.chunk.js",
+    "static/js/3.b8ebd892.chunk.js.map": "/static/js/3.b8ebd892.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ff648850.chunk.css.map": "/static/css/main.ff648850.chunk.css.map",
+    "static/js/2.6b2251d4.chunk.js.LICENSE.txt": "/static/js/2.6b2251d4.chunk.js.LICENSE.txt",
+    "static/media/1.bb958fad.png": "/static/media/1.bb958fad.png",
+    "static/media/2.e07364c9.png": "/static/media/2.e07364c9.png",
+    "static/media/2.f7e5e83f.png": "/static/media/2.f7e5e83f.png",
+    "static/media/3.183a54e0.png": "/static/media/3.183a54e0.png",
+    "static/media/3.5acc873a.png": "/static/media/3.5acc873a.png",
+    "static/media/4.0fb4ee26.png": "/static/media/4.0fb4ee26.png",
+    "static/media/6.47f1c62d.png": "/static/media/6.47f1c62d.png",
+    "static/media/7.52329821.png": "/static/media/7.52329821.png",
+    "static/media/8.38538a41.png": "/static/media/8.38538a41.png",
+    "static/media/9.ec29fc91.png": "/static/media/9.ec29fc91.png",
+    "static/media/ancient_downground.a83defba.gif": "/static/media/ancient_downground.a83defba.gif",
+    "static/media/ancitent_background.38c7c306.gif": "/static/media/ancitent_background.38c7c306.gif",
+    "static/media/avatar.e4d0737b.png": "/static/media/avatar.e4d0737b.png",
+    "static/media/mint.css": "/static/media/background.7c60ed85.jpg",
+    "static/media/style.css": "/static/media/dashing.94209bff.ttf",
+    "static/media/magiccat.82067d6a.png": "/static/media/magiccat.82067d6a.png",
+    "static/media/rarity.c67a6e89.jpg": "/static/media/rarity.c67a6e89.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82d4dd44.js",
+    "static/js/2.6b2251d4.chunk.js",
+    "static/css/main.ff648850.chunk.css",
+    "static/js/main.25aa85e9.chunk.js"
+  ]
+}
